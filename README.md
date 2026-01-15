@@ -1,2 +1,16 @@
-# roblox-samen-bouwen-stad-in-game-met-kjelt-ilya-oscar-en-mij
-roblox samen bouwen stad in game met kjelt ilya oscar Niklas en mij
+# M2Skill_Gitflow
+Gitflow opdracht van Niklas en Oscar
+
+Project: een website voor een game
+
+## Taakverdeling
+
+>Niklas
+
+Over Ons page
+Css Over Ons page
+
+>Oscar
+
+Homepage
+Css Homepage
